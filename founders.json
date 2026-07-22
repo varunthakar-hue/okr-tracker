@@ -1,0 +1,32 @@
+[
+  {
+    "company": "Zepto",
+    "founders": ["Aadit Palicha", "Kaivalya Vohra"],
+    "sector": "quick commerce",
+    "stage": "Series E",
+    "linkedin_urls": [],
+    "whatsapp": "",
+    "email": "",
+    "cohort": "NBT-5"
+  },
+  {
+    "company": "Sarvam AI",
+    "founders": ["Vivek Raghavan", "Pratyush Kumar"],
+    "sector": "AI / LLM",
+    "stage": "Series A",
+    "linkedin_urls": [],
+    "whatsapp": "",
+    "email": "",
+    "cohort": "NBT-6"
+  },
+  {
+    "company": "Jai Kisan",
+    "founders": ["Arjun Ahluwalia", "Adriel Maniego"],
+    "sector": "agri-fintech",
+    "stage": "Series B",
+    "linkedin_urls": [],
+    "whatsapp": "",
+    "email": "",
+    "cohort": "NBT-4"
+  }
+]
